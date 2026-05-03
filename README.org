@@ -1,0 +1,3 @@
+#+title: LR-FHSS Test Board
+
+** Based on NiceRF - LoRa1262F30
