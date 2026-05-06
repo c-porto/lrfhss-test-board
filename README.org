@@ -1,3 +1,92 @@
-#+title: LR-FHSS Test Board
+#+TITLE: LR-FHSS Test Board
+#+AUTHOR: Carlos A. P. Freitas
 
-** Based on NiceRF - LoRa1262F30
+#+BEGIN_CENTER
+[[https://img.shields.io/badge/status-in_development-red]]
+
+[[https://github.com/c-porto/lrfhss-test-board/releases][https://img.shields.io/github/v/release/c-porto/lrfhss-test-board]]
+
+[[https://github.com/c-porto/lrfhss-test-board/commits/master][https://img.shields.io/github/last-commit/c-porto/lrfhss-test-board]]
+
+[[https://github.com/c-porto/lrfhss-test-board/issues][https://img.shields.io/github/issues/c-porto/lrfhss-test-board]]
+
+[[https://github.com/c-porto/lrfhss-test-board/pulls][https://img.shields.io/github/issues-pr/c-porto/lrfhss-test-board]]
+
+[[https://github.com/c-porto/lrfhss-test-board/graphs/contributors][https://img.shields.io/github/contributors/c-porto/lrfhss-test-board]]
+#+END_CENTER
+
+
+* Table of Contents:
+- [[#overview][Overview]]
+- [[#repository-organization][Repository Organization]]
+- [[#license][License]]
+- [[#releases][Releases]]
+- [[#notes][Notes]]
+- [[#references][References]]
+
+
+* Overview
+:PROPERTIES:
+:CUSTOM_ID: overview
+:END:
+
+The PCB... Based on NiceRF - LoRa1262F30
+
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 400
+[[https://github.com/c-porto/lrfhss-test-board/blob/main/outputs/lrfhss_test_board_top.jpg]]
+
+#+ATTR_HTML: :width 400
+[[https://github.com/c-porto/lrfhss-test-board/blob/main/outputs/lrfhss_test_board_bottom.jpg]]
+#+END_CENTER
+
+
+* Repository Organization
+:PROPERTIES:
+:CUSTOM_ID: repository-organization
+:END:
+
+#+begin_src text
+  
+lrfhss-test-board/
+  ├── README.org
+  ├── sources/
+  └── outputs/
+#+end_src
+
+- =sources/= :: Main files of the... hardware project.
+- =outputs/= :: Output files, such as figures of the...PCB, schematics, BOM and more.
+
+
+* License
+:PROPERTIES:
+:CUSTOM_ID: license
+:END:
+
+This project is open-source under the following license: CERN Open Hardware License v2.0.
+
+
+* Releases
+:PROPERTIES:
+:CUSTOM_ID: releases
+:END:
+
+Releases are published after ensuring that the project itself does not have any major errors and after testing the PCB. Please refer to the *documentation* for more details.
+
+
+* Notes
+:PROPERTIES:
+:CUSTOM_ID: notes
+:END:
+
+For more info about the ...
+
+
+* References
+:PROPERTIES:
+:CUSTOM_ID: references
+:END:
+
+# - <<ref1>> [1] D. L. Figueiredo, "Reliability Enhanced Electrical Power System for Nanosatellites," in /Repositório Institucional da UFSC/, pp. 1-85, 2023, available at [[https://repositorio.ufsc.br/bitstream/handle/123456789/247559/PEEL2103-D.pdf?sequence=1&isAllowed=y][this link]].
+
+# - <<ref2>> [2] C. A. Rigo, L. O. Seman, M. D. Berejuck and E. A. Bezerra, "Printed Circuit Board Design Methodology for Embedded Systems Targeting Space Applications," in /IEEE Latin America Transactions/, vol. 18, no. 02, pp. 257-264, 2020, available at [[https://ieeexplore.ieee.org/document/9085278][this link]].

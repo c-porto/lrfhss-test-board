@@ -1,0 +1,192 @@
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Plugin executed on: 'linux'
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 410:Plugin executed with python version: '3.13.11 (main, Jan  6 2026, 00:00:00) [GCC 15.2.1 20251211 (Red Hat 15.2.1-5)]'
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 411:KiCad build version: 9.0.7-1.fc42
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 412:Plugin version: 4.0.3
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 413:Frame repr: <wx._core.Frame object at 0x7fb1caffe960>
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 437:Preparing replicator with J2 as a reference
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 485:source anchor footprint is 'J2'
+Located on: ['/connectors/']
+With filenames: ['untitled.kicad_sch']
+With sheet_id:['/connectors/']
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 492:Corresponding footprints are 
+[('J10', ['/connectors4/']), ('J8', ['/connectors3/']), ('J6', ['/connectors2/']), ('J4', ['/connectors1/']), ('J2', ['/connectors/'])]
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 504:Showing dialog
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'/connectors/', file:'untitled.kicad_sch'
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['/connectors1/'], ['/connectors2/'], ['/connectors3/'], ['/connectors4/']]
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1512:Level selected: ['/connectors/']
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1336:Filtering list of tracks
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 510:Toolbar position: wx.Point(1886, 130)
+02-04 19:23:37 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 515:Dialog position: wx.Point(1447, 130)
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'/connectors/', file:'untitled.kicad_sch'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['/connectors1/'], ['/connectors2/'], ['/connectors3/'], ['/connectors4/']]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 248:Replicating layout
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 288:Starting replication of sheets: [['/connectors1/'], ['/connectors2/'], ['/connectors3/'], ['/connectors4/']]
+on level: ['/connectors/']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+02-04 19:23:49 root 340:updating GUI message: 'Preparing for replication'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of source footprints
+02-04 19:23:49 root 345:updating GUI with: 0
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 368:Getting the list of all the remaining footprints
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 375:Getting source tracks
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1336:Filtering list of tracks
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 379:Getting source zones
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 383:Getting source text items
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 387:Getting source drawing items
+02-04 19:23:49 root 340:updating GUI message: 'Replicating footprints'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 863:Replicating footprints
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 870:Replicating footprints on sheet ['/connectors1/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J1'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J3'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:c0ce1fd9-6e42-449c-92c9-f314bf04d801
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:1fb67e15-ff88-41be-9b2f-3a88c5b48d50
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:7abab88c-76f2-4c5a-a312-474bdecc3787
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:6d5e7a75-d805-4970-a11a-5ee464402f88
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J2'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J4'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:9c75fd59-6549-441b-a7bd-7ba37d032d40
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:11a7eaaf-141c-4434-8e4e-fa5979eebdbd
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:6832211a-f851-4b14-bf7c-614442f93bf7
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:1bb07432-9aa1-41ef-bf7d-3e68f5171860
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 870:Replicating footprints on sheet ['/connectors2/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J1'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J5'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:c0ce1fd9-6e42-449c-92c9-f314bf04d801
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:11037654-90f1-4eee-96c8-996c8b5a7c34
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:7abab88c-76f2-4c5a-a312-474bdecc3787
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:cf6094c6-69b6-4d7d-a85e-ee82f176fbc1
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J2'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J6'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:9c75fd59-6549-441b-a7bd-7ba37d032d40
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:a9e8bb0e-e4b8-4b29-8ad6-8733099a7a70
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:6832211a-f851-4b14-bf7c-614442f93bf7
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:02e3018e-b08f-4815-9bdd-f21ee5e7045a
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 870:Replicating footprints on sheet ['/connectors3/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J1'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J7'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:c0ce1fd9-6e42-449c-92c9-f314bf04d801
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:2e2a1df2-5318-445e-9dfa-f197d623c740
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:7abab88c-76f2-4c5a-a312-474bdecc3787
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:34d83692-97bc-4504-b415-a1f7c2c27068
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J2'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J8'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:9c75fd59-6549-441b-a7bd-7ba37d032d40
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:39f9150d-9de2-4c89-919f-d50f7fbeeaf8
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:6832211a-f851-4b14-bf7c-614442f93bf7
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:60f7efd1-3d23-4ac6-9927-d014d2748e1e
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 870:Replicating footprints on sheet ['/connectors4/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J1'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '93049324-5347-454C-AEB5-3AD5B109DE3C'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J9'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:c0ce1fd9-6e42-449c-92c9-f314bf04d801
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:51fbdb18-3ec6-495e-8c79-e3e05f6c7417
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:7abab88c-76f2-4c5a-a312-474bdecc3787
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:21ff1bdb-1ef1-42b6-b307-51a4fcf25642
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 888:Replicating footprint: 'J2'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 895:found match in dst footprint: 'J10'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:9c75fd59-6549-441b-a7bd-7ba37d032d40
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:8713b236-91c6-4404-86d1-3de9281ea069
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 990:Src text UUid:6832211a-f851-4b14-bf7c-614442f93bf7
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 991:Dst text UUid:263c7213-669a-4a18-a6be-63bb99227abe
+02-04 19:23:49 root 340:updating GUI message: 'Replicating tracks'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1014:Replicating tracks
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating tracks on sheet ['/connectors1/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors1/'] :[('/VS2', '/VS4'), ('/VD1', '/VD3'), ('/VG2', '/VG4'), ('/VS1', '/VS3'), ('/VG1', '/VG3'), ('/VD2', '/VD4')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating tracks on sheet ['/connectors2/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors2/'] :[('/VG2', '/VG6'), ('/VD1', '/VD5'), ('/VD2', '/VD6'), ('/VS1', '/VS5'), ('/VS2', '/VS6'), ('/VG1', '/VG5')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating tracks on sheet ['/connectors3/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors3/'] :[('/VG2', '/VG8'), ('/VG1', '/VG7'), ('/VS1', '/VS7'), ('/VS2', '/VS8'), ('/VD1', '/VD7'), ('/VD2', '/VD8')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating tracks on sheet ['/connectors4/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VG2'] and dst net: ['', 'VG10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VD2'] and dst net: ['', 'VD10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VS2'] and dst net: ['', 'VS10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors4/'] :[('/VG1', '/VG9'), ('/VG2', '/VG10'), ('/VS2', '/VS10'), ('/VD1', '/VD9'), ('/VS1', '/VS9'), ('/VD2', '/VD10')]
+02-04 19:23:49 root 340:updating GUI message: 'Replicating zones'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1084:Replicating zones
+02-04 19:23:49 root 345:updating GUI with: 0
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1091:Replicating zones on sheet ['/connectors1/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors1/'] :[('/VS2', '/VS4'), ('/VD1', '/VD3'), ('/VG2', '/VG4'), ('/VS1', '/VS3'), ('/VG1', '/VG3'), ('/VD2', '/VD4')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1091:Replicating zones on sheet ['/connectors2/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors2/'] :[('/VG2', '/VG6'), ('/VD1', '/VD5'), ('/VD2', '/VD6'), ('/VS1', '/VS5'), ('/VS2', '/VS6'), ('/VG1', '/VG5')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1091:Replicating zones on sheet ['/connectors3/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors3/'] :[('/VG2', '/VG8'), ('/VG1', '/VG7'), ('/VS1', '/VS7'), ('/VS2', '/VS8'), ('/VD1', '/VD7'), ('/VD2', '/VD8')]
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1091:Replicating zones on sheet ['/connectors4/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VG2'] and dst net: ['', 'VG10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VD2'] and dst net: ['', 'VD10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 776:Significant difference between src net: ['', 'VS2'] and dst net: ['', 'VS10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.79
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['/connectors4/'] :[('/VG1', '/VG9'), ('/VG2', '/VG10'), ('/VS2', '/VS10'), ('/VD1', '/VD9'), ('/VS1', '/VS9'), ('/VD2', '/VD10')]
+02-04 19:23:49 root 340:updating GUI message: 'Replicating text'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1173:Replicating text
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1180:Replicating text on sheet ['/connectors1/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1180:Replicating text on sheet ['/connectors2/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1180:Replicating text on sheet ['/connectors3/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1180:Replicating text on sheet ['/connectors4/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 root 340:updating GUI message: 'Replicating drawings'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1224:Replicating drawings
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1230:Replicating drawings on sheet ['/connectors1/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1230:Replicating drawings on sheet ['/connectors2/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1230:Replicating drawings on sheet ['/connectors3/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1230:Replicating drawings on sheet ['/connectors4/']
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Src fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 839:Dst fp.id: '9274DDD1-63F2-4053-B7ED-E1BC5D285B6B'
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 264:Replication complete
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 267:Letting the user know there are some issues with replicated design
+02-04 19:23:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 271:Looks like the design has an exotic connectivity that the plugin might not handle properly
+ Make sure that you check the connectivity around:
+Footprint J10, pad 1
+Footprint J10, pad 3
+Footprint J10, pad 2
+
