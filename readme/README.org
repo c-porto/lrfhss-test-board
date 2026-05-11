@@ -1,0 +1,76 @@
+#+HTML: <div align="center">
+
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_top.png.jpg" width="400">
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_bottom.png.jpg" width="400">
+
+* LR-FHSS Test Board
+
+#+HTML: <img alt="status" src="https://img.shields.io/badge/status-in_development-red.svg">
+#+HTML: <a href="https://github.com/c-porto/lrfhss-test-board/releases"><img alt="release" src="https://img.shields.io/github/v/release/c-porto/lrfhss-test-board.svg"></a>
+#+HTML: <a href="https://github.com/c-porto/lrfhss-test-board/commits/master"><img alt="last_commit" src="https://img.shields.io/github/last-commit/c-porto/lrfhss-test-board.svg"></a>
+#+HTML: <a href="https://github.com/c-porto/lrfhss-test-board/issues"><img alt="issues" src="https://img.shields.io/github/issues/c-porto/lrfhss-test-board.svg"></a>
+#+HTML: <a href="https://github.com/c-porto/lrfhss-test-board/pulls"><img alt="pull_requests" src="https://img.shields.io/github/issues-pr/c-porto/lrfhss-test-board.svg"></a>
+#+HTML: <a href="https://github.com/c-porto/lrfhss-test-board/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/c-porto/lrfhss-test-board.svg"></a>
+#+HTML: <a href="https://doi.org/10.5281/zenodo.19164080"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.19164080.svg"></br>
+
+A simple PCB for testing the LR-FHSS
+
+[[#overview][Overview]] • [[#repository-organization][Repository Organization]] • [[#license][License]] • [[#releases][Releases]] • [[#notes][Notes]] • [[#references][References]]
+
+#+HTML: </div>
+
+
+* Overview
+:PROPERTIES:
+:CUSTOM_ID: overview
+:END:
+
+The PCB was based on the NiceRF LoRa1262F30 module and developed as a simple board for testing LR-FHSS-related experiments.
+
+
+* Repository Organization
+:PROPERTIES:
+:CUSTOM_ID: repository-organization
+:END:
+
+#+begin_src text
+  lrfhss-test-board/
+  ├── README.org
+  ├── sources/
+  └── outputs/
+#+end_src
+
+- =sources/= :: Main files of the hardware project.
+- =outputs/= :: Output files, such as PCB figures, schematics, BOM and more.
+
+
+* License
+:PROPERTIES:
+:CUSTOM_ID: license
+:END:
+
+This project is open-source under the following license: CERN Open Hardware License v2.0.
+
+
+* Releases
+:PROPERTIES:
+:CUSTOM_ID: releases
+:END:
+
+Releases are published after ensuring that the project itself does not have any major errors and after testing the PCB. Please refer to the *documentation* for more details.
+
+
+* Notes
+:PROPERTIES:
+:CUSTOM_ID: notes
+:END:
+
+For more information, please refer to the repository documentation and related project files.
+
+
+* References
+:PROPERTIES:
+:CUSTOM_ID: references
+:END:
+
+# - <<ref1>> [1] Reference example.

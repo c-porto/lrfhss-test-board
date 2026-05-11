@@ -1,28 +1,23 @@
-#+TITLE: LR-FHSS Test Board
-#+AUTHOR: Carlos A. P. Freitas
+#+HTML: <div align="center">
 
-#+BEGIN_CENTER
-[[https://img.shields.io/badge/status-in_development-red]]
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_top.png.jpg" width="400">
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_bottom.png.jpg" width="400">
 
-[[https://github.com/c-porto/lrfhss-test-board/releases][https://img.shields.io/github/v/release/c-porto/lrfhss-test-board]]
+* LR-FHSS Test Board 
 
-[[https://github.com/c-porto/lrfhss-test-board/commits/master][https://img.shields.io/github/last-commit/c-porto/lrfhss-test-board]]
+#+HTML:   <img alt="status" src="https://img.shields.io/badge/status-in_development-red.svg"></a>
+#+HTML:   <a href="https://github.com/c-porto/lrfhss-test-board/releases"><img alt="release" src="https://img.shields.io/github/v/release/c-porto/lrfhss-test-board.svg"></a>
+#+HTML:   <a href="https://github.com/c-porto/lrfhss-test-board/commits/master"><img alt="last_commit" src="https://img.shields.io/github/last-commit/c-porto/lrfhss-test-board.svg"></a>
+#+HTML:   <a href="https://github.com/c-porto/lrfhss-test-board/issues"><img alt="issues" src="https://img.shields.io/github/issues/c-porto/lrfhss-test-board.svg"></a>
+#+HTML:   <a href="https://github.com/c-porto/lrfhss-test-board/pulls"><img alt="pull_requests" src="https://img.shields.io/github/issues-pr/c-porto/lrfhss-test-board.svg"></a>
+#+HTML:   <a href="https://github.com/c-porto/lrfhss-test-board/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/c-porto/lrfhss-test-board.svg"></a>
+#+HTML:   <a href="https://doi.org/10.5281/zenodo.19164080"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.19164080.svg"></br>
 
-[[https://github.com/c-porto/lrfhss-test-board/issues][https://img.shields.io/github/issues/c-porto/lrfhss-test-board]]
+A simple PCB for testing the LR-FHSS
 
-[[https://github.com/c-porto/lrfhss-test-board/pulls][https://img.shields.io/github/issues-pr/c-porto/lrfhss-test-board]]
+[[#overview][Overview]] • [[#repository-organization][Repository Organization]] • [[#license][License]] • [[#releases][Releases]] • [[#notes][Notes]] • [[#references][References]]
 
-[[https://github.com/c-porto/lrfhss-test-board/graphs/contributors][https://img.shields.io/github/contributors/c-porto/lrfhss-test-board]]
-#+END_CENTER
-
-
-* Table of Contents:
-- [[#overview][Overview]]
-- [[#repository-organization][Repository Organization]]
-- [[#license][License]]
-- [[#releases][Releases]]
-- [[#notes][Notes]]
-- [[#references][References]]
+#+HTML: </div>
 
 
 * Overview
@@ -30,15 +25,7 @@
 :CUSTOM_ID: overview
 :END:
 
-The PCB... Based on NiceRF - LoRa1262F30
-
-#+BEGIN_CENTER
-#+ATTR_HTML: :width 400
-[[https://github.com/c-porto/lrfhss-test-board/blob/main/outputs/lrfhss_test_board_top.jpg]]
-
-#+ATTR_HTML: :width 400
-[[https://github.com/c-porto/lrfhss-test-board/blob/main/outputs/lrfhss_test_board_bottom.jpg]]
-#+END_CENTER
+The PCB... was based on the on the NiceRF (LoRa1262F30) module...
 
 
 * Repository Organization
@@ -46,12 +33,11 @@ The PCB... Based on NiceRF - LoRa1262F30
 :CUSTOM_ID: repository-organization
 :END:
 
-#+begin_src text
-  
-lrfhss-test-board/
-  ├── README.org
-  ├── sources/
-  └── outputs/
+#+begin_src text  
+  lrfhss-test-board/
+    ├── README.org
+    ├── sources/
+    └── outputs/
 #+end_src
 
 - =sources/= :: Main files of the... hardware project.
