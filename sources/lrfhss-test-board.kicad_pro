@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "backplane.kicad_pro",
+    "filename": "lrfhss-test-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -703,30 +703,6 @@
     [
       "2eebaa11-d7ed-4bfd-bc8e-988f68654d29",
       "Root"
-    ],
-    [
-      "4dcc7f3f-f18d-4102-9d24-f02112c06aa0",
-      "connectors"
-    ],
-    [
-      "2405d1ea-af53-4f16-83d5-b626188232bc",
-      "connectors1"
-    ],
-    [
-      "7a51c05c-a0ea-4359-9afe-611c71c4d198",
-      "connectors2"
-    ],
-    [
-      "c1090438-3ee5-4969-901f-0e63c7370fc9",
-      "connectors3"
-    ],
-    [
-      "84583c51-958a-4d21-ae25-1280e61b9c74",
-      "connectors4"
-    ],
-    [
-      "351eb3c6-f546-410d-bbc7-125e81521ba6",
-      "connectors5"
     ]
   ],
   "text_variables": {}
