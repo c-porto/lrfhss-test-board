@@ -1,7 +1,7 @@
 #+HTML: <div align="center">
 
-#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_top.png.jpg" width="400">
-#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/lrfhss_test_board_bottom.png.jpg" width="400">
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/top_pcb.png" width="400">
+#+HTML: <img src="https://raw.githubusercontent.com/c-porto/lrfhss-test-board/master/outputs/bottom_pcb.png" width="400">
 
 * LR-FHSS Test Board 
 
