@@ -511,7 +511,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "../fab/gerber/",
+      "plot": "../fab/gerber_and_drill/",
       "pos_files": "../fab/placement/",
       "specctra_dsn": "",
       "step": "",

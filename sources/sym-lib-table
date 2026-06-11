@@ -94,4 +94,6 @@
   (lib (name "capacitors")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbols/capacitors.kicad_sym")(options "")(descr ""))
   (lib (name "inas")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbols/inas.kicad_sym")(options "")(descr ""))
   (lib (name "rf-modules")(type "KiCad")(uri "/home/joaoc/Documents/github-folder/lrfhss-test-board/lib/symbols/rf-modules.kicad_sym")(options "")(descr ""))
+  (lib (name "resistors_fixed")(type "KiCad")(uri "/home/joaoc/Downloads/files/resistors_fixed.kicad_sym")(options "")(descr ""))
+  (lib (name "output_library")(type "KiCad")(uri "/home/joaoc/Downloads/files/output_library.kicad_sym")(options "")(descr ""))
 )
